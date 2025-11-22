@@ -1,0 +1,37 @@
+# Compiled class files
+*.class
+
+# Log files
+*.log
+
+# Package Files
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+
+# IDE specific files
+.idea/
+*.iml
+.vscode/
+*.code-workspace
+
+# Eclipse
+.classpath
+.project
+.settings/
+bin/
+
+# Build directories
+target/
+bin/
+build/
+
+# Mac & Windows
+.DS_Store
+Thumbs.db
+
+# Data files (optional)
+# data/transactions.txt
+# data/account.txt
